@@ -1,0 +1,10 @@
+MPMOKP30_1:optimal solution DM1:25,optimal solution DM2:24,common solution:6
+MPMOKP30_2:optimal solution DM1:25,optimal solution DM2:36,common solution:8
+MPMOKP30_3:optimal solution DM1:15,optimal solution DM2:18,common solution:8
+MPMOKP30_4:optimal solution DM1:23,optimal solution DM2:22,common solution:6
+MPMOKP30_5:optimal solution DM1:16,optimal solution DM2:27,common solution:8
+MPMOKP30_6:optimal solution DM1:22,optimal solution DM2:18,common solution:5
+MPMOKP30_7:optimal solution DM1:18,optimal solution DM2:27,common solution:8
+MPMOKP30_8:optimal solution DM1:24,optimal solution DM2:16,common solution:8
+MPMOKP30_9:optimal solution DM1:27,optimal solution DM2:22,common solution:9
+MPMOKP30_10:optimal solution DM1:27,optimal solution DM2:14,common solution:7
